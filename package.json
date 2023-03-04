@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "connect-session-sequelize": "^7.1.5",
+    "dotenv": "^16.0.3",
+    "express-handlebars": "^6.0.6",
+    "express-session": "^1.17.3",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.28.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "mvc-challenge-2",
+  "description": "## Table of Contents    1. [Description](#description)   2. [Installation](#installation)   3. [Usage](#usage)   4. [Credits](#credits)   5. [License](#license)   6. [Tests](#tests)   7. [Questions](#questions)",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
