@@ -15,11 +15,7 @@
   You will need express handlebars, Sequilize, MySQL2, bcrypt package, dotenv package, express session and connect-session sequilize.
    ## Usage
   Developers will be able to make blog posts about their discoveries, projects and errors to share with each other as well as being able to comment on each other's blog posts.
-   ## Credits/Contribution
-   Made by Zarrar Raja, no contribution needed.
    ## License
    None.
    ## Tests
-   N/A
-   ## Questions
-   My github username is zmirza0 if you'd like to ask questions.
+   None
